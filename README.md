@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Satishnaidu58
+- 👋 Hey, I’m @Satishnaidu58
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning How to solve real-world Problems
 - 💞️ I’m looking to collaborate on MAchine Learning Projects
