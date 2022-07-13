@@ -1,7 +1,7 @@
 - 👋 Hey, I’m @Satishnaidu58
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning How to solve real-world Problems
-- 💞️ I’m looking to collaborate on MAchine Learning Projects
+- 🌱 I’m currently into problem Solving
+- 💞️ I’m looking to collaborate on MERN STACk and DSA realted projects
 - 📫 How to reach me satishnaidu400@gmail.com
 
 
