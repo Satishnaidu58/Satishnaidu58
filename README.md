@@ -5,7 +5,7 @@ Technical skills:
 - Strong Hold on subjects: ● Data Structures and Algorithms, ● DBMS, ● O.S, ● Computer Networks
 - 🌱 I’m currently learnig Fullstack devlopment
 - 💞️ I’m looking to collaborate on MERN STACK and DSA realted projects
-- 📫 How to reach me satishnaidu400@gmail.com
+- 📫 Feel free to reach out satishnaidu400@gmail.com
 
 
 <!---
