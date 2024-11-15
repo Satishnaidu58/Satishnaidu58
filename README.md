@@ -1,11 +1,10 @@
-👋 Hey, I’m Satish, and I am perusing B.Tech in Computer Science and Engineering in CVRGU, CPI: 8.3 (2023)
-Technical skills:
-- Problem-solving: ● 400+ problems solved @Leetcode, @gfg, @codechef ● contributed 40+ solutions for the recursion playlist for the Leadcoding YT channel.
-- Backend-Development: ● Build a few projects like social media app and Ecomerce app using Django
-- Strong Hold on subjects: ● Data Structures and Algorithms, ● DBMS, ● O.S, ● Computer Networks
-- 🌱 I’m currently learnig Fullstack devlopment
-- 💞️ I’m looking to collaborate on MERN STACK and DSA realted projects
-- 📫 Feel free to reach out satishnaidu400@gmail.com
+Software engineer with over 1 year of experience, I specialize in developing robust systems and AI-driven solutions that bridge innovation with practical outcomes. As an SDE-1 at Teachmint, I’ve had the opportunity to work on impactful projects that drive user engagement and product adoption, including AI-enabled TeachmintX classrooms.
+
+🔹 Technical Skills: My technical toolkit includes Python, Flask, REST APIs, and Google Cloud Platform, and I’m well-versed in cloud deployments, microservices architecture, and end-to-end feature development. I have also implemented scalable backend solutions and designed POCs that evolve into reliable products, empowering users and enhancing organizational capabilities.
+
+🔹 Collaborative Approach: I’m committed to cross-functional collaboration, actively engaging in code reviews, high-level/low-level design discussions, and requirement gathering to ensure every product delivers maximum value. My work emphasizes clean, maintainable code that is adaptable to new features and technologies.
+
+- 📫 Feel free to reach out to satishnaidu400@gmail.com
 
 
 <!---
