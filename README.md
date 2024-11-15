@@ -56,7 +56,7 @@ Welcome to my GitHub! I'm a **Software Engineer** with over two years of experie
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satish-k-naidu/)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:csesatish400@gmail.com)
 
-[![Gmail](https://img.icons8.com/clouds/100/gmail-new.png)](mailto:satishnaidu400@gmail.com)
+[![Gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:satishnaidu400@gmail.com)
 
 ---
 
