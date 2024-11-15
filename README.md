@@ -56,6 +56,8 @@ Welcome to my GitHub! I'm a **Software Engineer** with over two years of experie
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satish-k-naidu/)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:csesatish400@gmail.com)
 
+[![Gmail](https://www.freepik.com/icon/gmail_5968534#fromView=keyword&page=1&position=0&uuid=5fabc368-e306-4511-a81c-229eead5da67)](mailto:satishnaidu400@gmail.com)
+
 ---
 
 🌟 Thanks for visiting my profile! Feel free to explore my repositories and collaborate on exciting projects. Let's build something amazing together!
