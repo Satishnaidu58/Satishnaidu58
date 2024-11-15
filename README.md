@@ -22,11 +22,26 @@ Welcome to my GitHub! I'm a **Software Engineer** with over two years of experie
 
 ---
 
-## 🛠️ Key Projects
-- **AI Teaching Assistant**: Designed and deployed a context-aware AI assistant that enhanced teacher productivity and increased Interactive Flat Panel (IFP) sales.
-- **Gen-AI Quiz Creator**: Built a system that generates quizzes based on classroom teaching, cutting down manual efforts by 60%.
-- **Content Management System**: Designed an access control layer POC for file sharing and permissions and developed an organization-level configuration module for drive setup and storage, enabling organization-level content management across institutes, similar to Google Drive
+## 🛠️ Top Projects
+### **1. AI Teaching Assistant**
+- Developed an AI assistant that enhances teacher explanations with context-aware safe search, text explanations, and media suggestions.  
+- **Impact**: Boosted in-classroom support and contributed to increased Interactive Flat Panel (IFP) sales.
 
+### **2. Gen-AI Quiz Creator**
+- Built a tool that generates quizzes based on classroom content, reducing quiz creation time by 60%.  
+- **Impact**: Improved student engagement with personalized quizzes.
+
+### **3. AI Response Generation Pipeline**
+- Designed a versatile pipeline for tasks like summarization, quiz creation, and PPT generation supporting multiple file formats (videos, images, PDFs).  
+- **Impact**: Reduced development time for new LLM use cases by 60%.
+
+### **4. Organization-Level Content Management**
+- Created a Google Drive-like solution with access control and organization-level configurations for content storage and sharing.  
+- **Impact**: Simplified content management across institutions.
+
+### **5. Formula Engine for Custom Reports**
+- Implemented an engine using Python Pandas for automated calculations like SUM, AVG, and grading.  
+- **Impact**: Reduced manual effort by 70% and increased ERP customer retention by 30%.
 
 ---
 
