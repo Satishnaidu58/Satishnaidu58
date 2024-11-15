@@ -46,8 +46,8 @@ Welcome to my GitHub! I'm a **Software Engineer** with over two years of experie
 ---
 
 ## 📈 GitHub Stats
-![Satish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satishnaidu400&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satishnaidu400&layout=compact&theme=radical)
+![Satish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satishnaidu58&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satishnaidu58&layout=compact&theme=radical)
 
 ---
 
