@@ -14,15 +14,15 @@ Welcome to my GitHub! I'm a **Software Engineer** with over two years of experie
 ---
 
 ## 🔧 Tech Stack
-- **Languages**: Python, JavaScript
+- **Languages**: Python, JavaScript, HTML, CSS, Liquid Js
 - **Backend**: Flask, REST APIs, Microservices
 - **Databases**: MongoDB, NoSQL
-- **Cloud & DevOps**: Google Cloud Platform, Google Cloud Functions, Docker, CI/CD Pipelines, Linux
+- **Cloud & DevOps**: Google Cloud Platform, Google Cloud Functions, GCS, CI/CD Pipelines, Linux
 - **AI & Tools**: LLM APIs, VertexAI, Kafka, Elastic Stack, Kibana, Grafana
 
 ---
 
-## 🛠️ Top Projects
+## 🛠️ Work Experience
 ### **1. AI Teaching Assistant**
 - Developed an AI assistant that enhances teacher explanations with context-aware safe search, text explanations, and media suggestions.  
 - **Impact**: Boosted in-classroom support and contributed to increased Interactive Flat Panel (IFP) sales.
@@ -47,7 +47,7 @@ Welcome to my GitHub! I'm a **Software Engineer** with over two years of experie
 
 ## 📈 GitHub Stats
 ![Satish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satishnaidu58&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satishnaidu58&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satishnaidu58&layout=compact&theme=radical&hide_progress=true)
 
 ---
 
